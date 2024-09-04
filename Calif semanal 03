@@ -1,0 +1,45 @@
+Primera parte
+
+a):
+
+  Sintaxis abstracta:
+  La representación en sintaxis abstracta está bien hecha, aunque hay un pequeño error tipográfico en la estructura (faltan comas y hay un error en el cierre de paréntesis). Sin embargo, el error no afecta la claridad de la respuesta.
+  Semántica natural:
+  La evaluación es correcta y sigue las reglas. Cuidado con los parentesis, se puede escapar uno que otro.
+  Semántica estructural:
+  El proceso de reducción está bien descrito, el resultado final es correcto.
+  Puntuación: 9/10 
+
+b):
+
+  Sintaxis abstracta:
+  La conversión a sintaxis abstracta es precisa y bien realizada.
+  Semántica natural:
+  La evaluación sigue las reglas correctamente y llega al resultado final esperado.
+  Semántica estructural:
+  La evaluación estructural está bien hecha, pero podría ser más detallada en la explicación de cada paso.
+  Puntuación: 10/10 
+
+c):
+
+  Sintaxis abstracta:
+  La representación es correcta.
+  Semántica natural:
+  La evaluación es correcta.
+  Semántica estructural:
+  El proceso de reducción está bien descrito y el resultado final es correcto.
+  Puntuación: 10/10
+
+Segunda parte
+
+Grámatica libre de contexto modificada (en notación EBNF):
+La gramática está bien formulada y cubre adecuadamente los nuevos operadores. Puntuación: 4/4 
+Nuevas reglas de sintaxis abstracta:
+Las reglas están bien formuladas Puntuacion: 4/4 
+Nuevas reglas de semántica natural y estructural:
+Las reglas están bien formuladas, pero algunos detalles podrían tener mayor claridad, especialmente en la semántica estructural para manejar errores. Puntuación: 2/2
+
+Calificación Final:
+Parte 1: 29/30
+Parte 2: 10/10
+Total: 39/40 = 9.75, bien!!
